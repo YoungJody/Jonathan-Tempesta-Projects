@@ -4,6 +4,36 @@
 
 On The Hitlist is a discovery platform for music producers. Members submit records for evaluation and ranking, with subscriptions, merchandise fulfillment, and Discord integration. I designed and built it alone, from the front end through the infrastructure, for a producer community I grew to 500+ members.
 
+## Screens
+
+From the invite-only preview. Sign-in and the account flows are live; other areas are still in development.
+
+![On The Hitlist, main screen after signing in](../images/On%20The%20Hitlist/Logged%20In%20Main%20Page/Logged%20In%20Main%20Screen%201.png)
+
+| | |
+|---|---|
+| ![Main screen, signed in](../images/On%20The%20Hitlist/Logged%20In%20Main%20Page/Logged%20In%20Main%20Screen%202.png) | ![Main screen, signed in](../images/On%20The%20Hitlist/Logged%20In%20Main%20Page/Logged%20In%20Main%20Screen%203.png) |
+| *Signed-in main screen* | *Signed-in main screen* |
+
+### Account settings
+
+| | |
+|---|---|
+| ![Profile settings](../images/On%20The%20Hitlist/Account%20Settings%20Page/Profile%20Settings%20%7C%20RDS%20Postgres.png) | ![Email settings](../images/On%20The%20Hitlist/Account%20Settings%20Page/Email%20Settings%20%7C%20SES%20%26%20Cognito.png) |
+| *Profile settings, stored in PostgreSQL on Amazon RDS* | *Email changes, verified through Cognito and Amazon SES* |
+| ![Password settings](../images/On%20The%20Hitlist/Account%20Settings%20Page/Password%20Settings%20%7C%20SES%20%26%20Cognito.png) | ![Subscription settings](../images/On%20The%20Hitlist/Account%20Settings%20Page/Subscription%20Settings.png) |
+| *Password changes through Cognito, confirmed by email through SES* | *Subscription management, billed through Stripe* |
+| ![Delete account](../images/On%20The%20Hitlist/Account%20Settings%20Page/Delete%20Account.png) | ![Request industry verification](../images/On%20The%20Hitlist/Account%20Settings%20Page/Request%20Industry%20Verification.png) |
+| *Account deletion, the flow behind the token fix described below* | *Members can request industry verification* |
+
+### Signed out
+
+| | |
+|---|---|
+| ![Signed-out main screen](../images/On%20The%20Hitlist/Logged%20Out%20Main%20Page/Logged%20Out%20Main%20Screen%201.png) | ![Signed-out main screen](../images/On%20The%20Hitlist/Logged%20Out%20Main%20Page/Logged%20Out%20Main%20Screen%202.png) |
+
+More screens: [signed in](../images/On%20The%20Hitlist/Logged%20In%20Main%20Page) · [signed out](../images/On%20The%20Hitlist/Logged%20Out%20Main%20Page)
+
 ## At a glance
 
 | | |

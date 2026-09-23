@@ -10,8 +10,8 @@ Two-player word game: each player enters a word, the program scores it with Scra
 Estimates the U.S. grade level needed to read a passage using the Coleman-Liau index, which is based on counts of letters, words, and sentences.
 **Practiced:** string processing, character classification, floating-point math.
 
-## Substitution
-Encrypts a message with a substitution cipher, using a 26-letter key passed on the command line. It validates the key and preserves upper and lower case.
+## Substitution — harder version
+Encrypts a message with a substitution cipher, using a 26-letter key passed on the command line. It validates the key and preserves upper and lower case. CS50's easier alternative for this slot is the Caesar cipher, which shifts every letter by a single number.
 **Practiced:** command-line arguments, input validation, character mapping.
 
 ---

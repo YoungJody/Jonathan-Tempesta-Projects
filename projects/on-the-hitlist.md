@@ -4,11 +4,15 @@
 
 On The Hitlist is a discovery platform for music producers. Members submit records for evaluation and ranking, with subscriptions, merchandise fulfillment, and Discord integration. I designed and built it alone, from the front end through the infrastructure, for a producer community I grew to 500+ members.
 
+## Demo
+
+[![Watch the On The Hitlist walkthrough](../images/On%20The%20Hitlist/Logged%20In%20Main%20Page/Logged%20In%20Main%20Screen%201.png)](../videos/on-the-hitlist-demo.mp4)
+
+*Video walkthrough of the invite-only preview. Click the image to play it.*
+
 ## Screens
 
 From the invite-only preview. Sign-in and the account flows are live; other areas are still in development.
-
-![On The Hitlist, main screen after signing in](../images/On%20The%20Hitlist/Logged%20In%20Main%20Page/Logged%20In%20Main%20Screen%201.png)
 
 | | |
 |---|---|

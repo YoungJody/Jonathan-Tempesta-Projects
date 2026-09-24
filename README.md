@@ -6,8 +6,8 @@ Lady Lake, FL (remote, Eastern Time) · [jonathan@onthehitlist.com](mailto:jonat
 
 I taught myself software development through Harvard's CS50x and by building **On The Hitlist**, a full-stack web platform for a music-producer community I founded. Before that, I spent 2.5 years as a certified pharmacy technician and worked as a music producer and audio engineer.
 
-![On The Hitlist, main screen](images/On%20The%20Hitlist/Logged%20In%20Main%20Page/Logged%20In%20Main%20Screen%201.png)
-*On The Hitlist: the platform I built solo, shown in its invite-only preview.*
+[![On The Hitlist, main screen](images/On%20The%20Hitlist/Logged%20In%20Main%20Page/Logged%20In%20Main%20Screen%201.png)](videos/on-the-hitlist-demo.mp4)
+*On The Hitlist: the platform I built solo. Click through for the video walkthrough.*
 
 ## Projects
 
